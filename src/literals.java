@@ -10,7 +10,7 @@ public class literals {
         boolean a = true;
         System.out.println(age);
 
-        String str = "Shruti";
+        String str = "Shruti singh";
         System.out.println(str);
 
     }
