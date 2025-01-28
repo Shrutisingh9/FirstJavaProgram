@@ -29,9 +29,5 @@ public class operators {
         //11
         //-----
         //10
-
-
-
-
     }
 }
