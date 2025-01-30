@@ -9,9 +9,6 @@ public class ps2question3 {
         System.out.println("Enter a: ");
         int a = sc.nextInt();
 
-        System.out.println("Enter b: ");
-        int b = sc.nextInt();
-
-        System.out.println(a > b);
+        System.out.println(a > 50);
     }
 }
